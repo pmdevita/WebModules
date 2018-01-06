@@ -1,8 +1,6 @@
 # Web Modules v.8
 
-<a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/mAAoQtNM9wiSavibTmZvvG8g/pmdevita/WebModules'>
-  <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/mAAoQtNM9wiSavibTmZvvG8g/pmdevita/WebModules.svg' />
-</a>
+
 
 Web Modules is a framework for quickly and easily making
 * small test websites
